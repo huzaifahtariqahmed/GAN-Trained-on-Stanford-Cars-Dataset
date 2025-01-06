@@ -2,13 +2,6 @@
 
 This repository contains a Jupyter Notebook showcasing a trained Generative Adversarial Network (GAN). The notebook demonstrates the process of training a GAN to generate synthetic data/images, visualizing results, and analyzing its performance.
 
-## Features
-
-- **GAN Architecture**: Implements a generator and discriminator model.
-- **Training Workflow**: Details on loss functions, optimizers, and training loop for GAN.
-- **Visualization**: Displays generated samples at different training epochs to monitor progress.
-- **Analysis**: Includes metrics or qualitative evaluation to assess the performance of the GAN.
-
 ## Repository Contents
 
 - `trained_GAN.ipynb`: Main Jupyter notebook containing the code, visualizations, and explanations.
@@ -35,7 +28,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/trained-gan.git
+   git clone https://github.com/huzaifahtariqahmed/GAN-Trained-on-Stanford-Cars-Dataset.git
    cd trained-gan
    ```
 
