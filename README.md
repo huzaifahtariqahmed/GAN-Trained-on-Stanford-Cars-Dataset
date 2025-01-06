@@ -42,7 +42,9 @@ pip install -r requirements.txt
 
 ## Results
 
-The notebook includes visualizations of generated outputs and training progress. You can customize the model or training parameters to experiment with different configurations.
+The training Losses for both Generator & Discriminator are these:
+
+![losses](https://github.com/huzaifahtariqahmed/GAN-Trained-on-Stanford-Cars-Dataset/blob/main/Images/losses.png)
 
 ## Contributing
 
