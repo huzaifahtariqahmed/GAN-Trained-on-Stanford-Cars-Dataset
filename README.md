@@ -46,6 +46,10 @@ The training Losses for both Generator & Discriminator are these:
 
 ![losses](https://github.com/huzaifahtariqahmed/GAN-Trained-on-Stanford-Cars-Dataset/blob/main/Images/losses.png)
 
+The trained GAN was used to generate 20 sample imgaes:
+
+![generated samples](https://github.com/huzaifahtariqahmed/GAN-Trained-on-Stanford-Cars-Dataset/blob/main/Images/generated_samples.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
