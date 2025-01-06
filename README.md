@@ -50,10 +50,6 @@ The trained GAN was used to generate 20 sample imgaes:
 
 ![generated samples](https://github.com/huzaifahtariqahmed/GAN-Trained-on-Stanford-Cars-Dataset/blob/main/Images/generated_samples.png)
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
@@ -67,3 +63,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Feel free to reach out for questions or suggestions!
 
+---
+
+## Contributions
+
+[Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)
